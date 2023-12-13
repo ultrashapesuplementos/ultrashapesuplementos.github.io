@@ -28,7 +28,7 @@ const FirstSection = () => {
             Região
           </Text>
         </Container>
-        <Button marginTop={10} colorScheme="red" fontSize={"xl"} rounded={32}>
+        <Button marginTop={10} colorScheme="red" fontSize={"sm"} rounded={32}>
           Comprar agora
         </Button>
       </Container>

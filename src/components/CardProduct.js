@@ -40,7 +40,7 @@ const CardProduct = ({
           <Text py="2">{product_description}</Text>
         </CardBody>
         <CardFooter>
-          <Button variant="solid" colorScheme="blue">
+          <Button variant="solid" colorScheme="red">
             Comprar
           </Button>
         </CardFooter>
