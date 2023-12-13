@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.5eae331a.js",
+    "main.js": "/static/js/main.e9261890.js",
     "static/media/Logo.png": "/static/media/Logo.505423317aec8f1f1f05.png",
     "static/media/undraw_fitness_stats.svg": "/static/media/undraw_fitness_stats.7e9cc63abf72110197a4ce1d62052d5b.svg",
     "index.html": "/index.html",
-    "main.5eae331a.js.map": "/static/js/main.5eae331a.js.map"
+    "main.e9261890.js.map": "/static/js/main.e9261890.js.map"
   },
   "entrypoints": [
-    "static/js/main.5eae331a.js"
+    "static/js/main.e9261890.js"
   ]
 }
